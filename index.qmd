@@ -1,6 +1,6 @@
 ---
-title: "Report Sample"
-author: "Student name"
+title: "Principal Component Analysis"
+author: "Sri Satya Harsha Pola"
 date: '`r Sys.Date()`'
 format:
   html:
